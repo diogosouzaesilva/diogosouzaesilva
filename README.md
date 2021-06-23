@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi, My name is Diogo and I'm a Front-end Developer</h1>
-<br><br>
+<br>
 <div>
     
   <img height="180em"  width="410px" src="https://github-readme-stats.vercel.app/api?username=diogosouzaesilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
