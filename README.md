@@ -1,4 +1,4 @@
-Hi! My name is Diogo Souza. 
+## Hi, My name is Diogo and I'm a Front-end Developer
 
 <div>
     
