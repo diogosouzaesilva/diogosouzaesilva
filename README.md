@@ -1,4 +1,4 @@
-## Hi, My name is Diogo and I'm a Front-end Developer
+## <h1 align="center">Hi, My name is Diogo and I'm a Front-end Developer</h1>
 
 <div>
     
