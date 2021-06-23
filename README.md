@@ -1,13 +1,20 @@
 Hi! My name is Diogo Souza. 
 
-<div align="center">
-  <a href="https://github.com/diogosouzaesilva">
+<div>
     
   <img height="180em"  width="427px" src="https://github-readme-stats.vercel.app/api?username=diogosouzaesilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width="427px"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosouzaesilva&&layout=compact&hide=shell&theme=jolly"</img>
   
-  <kbd><img align="center" width="900px" height="300" src="https://media.giphy.com/media/T1HNGhvx14iru/giphy.gif"></kbd>
 </div>
+
+<div>
+  <img height="180em"  width="427px"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosouzaesilva&&layout=compact&hide=shell&theme=jolly"</img>
+</div>
+
+<div>
+  <kbd><img align="center" width="900px" height="300" src="https://media.giphy.com/media/T1HNGhvx14iru/giphy.gif"></kbd>
+ </div>
+
+
 
  <br>
 <div  align="center"> 
