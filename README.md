@@ -1,6 +1,6 @@
 Hi! My name is Diogo Souza. 
 
-<div>
+<div align="center">
   <a href="https://github.com/diogosouzaesilva">
     
   <img height="180em"  width="427px" src="https://github-readme-stats.vercel.app/api?username=diogosouzaesilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
