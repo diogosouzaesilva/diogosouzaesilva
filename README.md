@@ -6,7 +6,7 @@ Hi! My name is Diogo Souza.
   
 </div>
 
-<div align="right">
+<div align="right" margin-top"30px">
   <img height="180em"  width="300px"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosouzaesilva&&layout=compact&hide=shell&theme=jolly"</img>
 </div>
 
