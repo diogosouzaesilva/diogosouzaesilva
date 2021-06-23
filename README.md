@@ -3,11 +3,12 @@ Hi! My name is Diogo Souza.
 <div>
     
   <img height="180em"  width="427px" src="https://github-readme-stats.vercel.app/api?username=diogosouzaesilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="180em"  width="300px"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosouzaesilva&&layout=compact&hide=shell&theme=jolly"</img>
   
 </div>
 
-<div align="right" margin-top"30px">
-  <img height="180em"  width="300px"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosouzaesilva&&layout=compact&hide=shell&theme=jolly"</img>
+<div align="right">
+  
 </div>
 
 <div>
