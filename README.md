@@ -3,7 +3,7 @@ Hi! My name is Diogo Souza.
 <div>
   <a href="https://github.com/diogosouzaesilva">
     
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=diogosouzaesilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=diogosouzaesilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosouzaesilva&&layout=compact&hide=shell&theme=jolly"</img>
   
   <kbd><img align="center" width="900px" height="300" src="https://media.giphy.com/media/T1HNGhvx14iru/giphy.gif"></kbd>
