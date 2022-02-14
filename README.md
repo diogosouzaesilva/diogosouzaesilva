@@ -1,4 +1,4 @@
-## <h1 align="center">Hi, My name is Diogo and I'm a Front-end Developer</h1>
+## <h1 align="center">Hi, My name is Diogo </h1>
 <br>
 <div>
     
